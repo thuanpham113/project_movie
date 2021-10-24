@@ -1,5 +1,5 @@
 <template>
  <div class="app">
-     <Nuxt/>
+     <Nuxt keep-aline />
 </div>
 </template>
